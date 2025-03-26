@@ -32,7 +32,7 @@ I'm a coding enthusiast who loves creating cool projects, especially with **PHP*
 Find me everywhere with **@m4tinbeigi** 🔥  
 
 ### 🔥 Main Socials  
-- 🟦 **[LinkedIn](https://www.linkedin.com/in/m4tinbeigi)**  
+- 🟦 **[LinkedIn](https://www.linkedin.com/in/matinbeigi)**  
 - 🐦 **[Twitter](https://twitter.com/m4tinbeigi)**  
 - 📸 **[Instagram](https://instagram.com/m4tinbeigi)**  
 - 📬 **Email:** [m4tinbeigi@gmail.com](mailto:m4tinbeigi@gmail.com)  
