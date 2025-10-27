@@ -7,19 +7,10 @@ I'm a coding enthusiast who loves creating cool projects, especially with **PHP*
 
 ## 🎯 My Top Project  
 ### 🎬 **FreeMovie** — Your freedom in entertainment!  
-- 🔗 GitHub Repo: [FreeMovie](https://github.com/m4tinbeigi-official/freemovie)  
+- 🔗 GitHub Repo: [FreeMovie]([https://github.com/m4tinbeigi-official/freemovie](https://github.com/FreeMovieIR/freemovieir.github.io))  
 - 🌍 Website: [b2n.ir/freemovie](https://b2n.ir/freemovie)  
-- ⭐ Stars: ![GitHub Repo stars](https://img.shields.io/github/stars/m4tinbeigi-official/freemovie?style=social)  
-- ⏳ Last updated: ![GitHub last commit](https://img.shields.io/github/last-commit/m4tinbeigi-official/freemovie)  
-
----
-
-## 🛠️ Other Cool Projects  
-- 🔹 **Project 1** — Description  
-- 🔹 **Project 2** — Description  
-- 🔹 **Project 3** — Description  
-
-*(More projects coming soon!)*  
+- ⭐ Stars: ![GitHub Repo stars](https://img.shields.io/github/stars/FreeMovieIR/freemovieir.github.io?style=social)
+- ⏳ Last updated: ![GitHub last commit](https://img.shields.io/github/last-commit/FreeMovieIR/freemovieir.github.io)  
 
 ---
 
@@ -41,7 +32,6 @@ Find me everywhere with **@m4tinbeigi** 🔥
 
 ### 🔥 My Websites  
 - 🌐 **[ricksanchez.ir](https://ricksanchez.ir)**  
-- 🌐 **[matinbeigi.ir](https://matinbeigi.ir)**  
 - 🌐 **[matinbeigiwp.ir](https://matinbeigiwp.ir)**  
 - 🌐 **[m4tinbeigi.ir](https://m4tinbeigi.ir)**  
 
